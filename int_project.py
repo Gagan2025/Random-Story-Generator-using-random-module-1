@@ -16,7 +16,7 @@ word = ['Once upon a time','A long time ago','In earlier times','On 20Th January
 
 saying = [' whose name was ',' named ',' known as ']
 
-whom = [' to his family.',' to his friends.',' to his classmates.', ' to his mother.',' to his father.',' to his grandparents.']
+whom = [' to his family.',' to his friends.',' to his classmates.', ' to his mother.',' to his father.']
 
 next= ['5 days later','2 days later','3 days later','After 5 days']
 
